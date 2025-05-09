@@ -67,5 +67,5 @@ ChatML
 Both the .py and .ipynb files are the same
 
 
-🧑‍💻 Author
+🧑‍💻 Author:
 Elsayed Zaki 
