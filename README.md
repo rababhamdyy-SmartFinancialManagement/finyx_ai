@@ -42,5 +42,9 @@ Input: An image of a receipt.
 Output: Extracted text + language model interpretation.
 
 
+📝 Note:
+Both the .py and .ipynb files are the same
+
+
 🧑‍💻 Author: 
 Hanin Daiaa - Eyad Al-Hussaini
