@@ -42,5 +42,5 @@ Input: An image of a receipt.
 Output: Extracted text + language model interpretation.
 
 
-🧑‍💻 Author 
+🧑‍💻 Author: 
 Hanin Daiaa - Eyad Al-Hussaini
