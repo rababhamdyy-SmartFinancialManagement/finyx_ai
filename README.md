@@ -62,5 +62,10 @@ Vicuna
 Phi3
 ChatML
 
+
+📝 Note:
+Both the .py and .ipynb files are the same
+
+
 🧑‍💻 Author
 Elsayed Zaki 
