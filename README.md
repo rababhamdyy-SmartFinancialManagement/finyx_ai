@@ -50,6 +50,7 @@ Google Colab (if using drive integration)
 📝 Notes
 LoRA updates only 1–10% of model weights, making it ideal for personal machines.
 Can be exported directly to Ollama or used with LangChain for integration.
+Both the .py and .ipynb files are the same.
 
 
 👨‍💻 Author
